@@ -1,0 +1,2 @@
+The Generative Models (GAN & DDPM) are too heavy to be uploaded to GitHub, so there is a link to OneDrive, which contains the GAN and the DDPM
+https://uniandes-my.sharepoint.com/:f:/r/personal/s_gonzalez38_uniandes_edu_co/Documents/Generative_Models_Repo?csf=1&web=1&e=UdeoTV
