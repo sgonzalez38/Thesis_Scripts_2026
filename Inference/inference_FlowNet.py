@@ -29,7 +29,7 @@ if torch.cuda.is_available():
 else:
     device = torch.device("cpu")
 
-print(f"🖥️ Dispositivo: {device}")
+print(f"Dispositivo: {device}")
 
 model = FlowNet(max_disp=2, use_cbam=False).to(device) #adjust max_disp and use_cbam according to your trained model's configuration
 
